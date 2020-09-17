@@ -39,20 +39,13 @@
     },
     "versionFirst": "4.3.4",
     "uniqCompNum": 19,
-    "versionPublish": "5.1.7",
+    "versionPublish": "4.3.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "",
-    "google-analytics": "<noscript><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-PFK425\"\r\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\r\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\r\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\r\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\r\n'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\r\n})(window,document,'script','dataLayer','GTM-PFK425');</script>",
-    "siteFonts": [
-      {
-        "css": "'Kaushan Script', handwriting",
-        "name": "Kaushan Script",
-        "url": "https://fonts.googleapis.com/css?family=Kaushan+Script:400"
-      }
-    ]
+    "google-analytics": "<noscript><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-PFK425\"\r\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\r\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\r\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\r\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\r\n'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\r\n})(window,document,'script','dataLayer','GTM-PFK425');</script>"
   },
   "pages": {
     "index.html": {

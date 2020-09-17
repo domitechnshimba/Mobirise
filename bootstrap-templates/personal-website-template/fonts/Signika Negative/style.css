@@ -1,0 +1,28 @@
+@font-face {
+   font-family: 'Signika Negative';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 300;
+   src: url('file:///Users/dominicnshimba/Documents/GitHub/Mobirise/bootstrap-templates/personal-website-template/fonts/Signika Negative/300.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Signika Negative';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 600;
+   src: url('file:///Users/dominicnshimba/Documents/GitHub/Mobirise/bootstrap-templates/personal-website-template/fonts/Signika Negative/600.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Signika Negative';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///Users/dominicnshimba/Documents/GitHub/Mobirise/bootstrap-templates/personal-website-template/fonts/Signika Negative/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Signika Negative';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///Users/dominicnshimba/Documents/GitHub/Mobirise/bootstrap-templates/personal-website-template/fonts/Signika Negative/regular.ttf') format('truetype');
+}
