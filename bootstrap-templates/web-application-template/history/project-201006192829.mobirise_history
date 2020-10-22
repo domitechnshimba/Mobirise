@@ -52,8 +52,7 @@
         "name": "Kaushan Script",
         "url": "https://fonts.googleapis.com/css?family=Kaushan+Script:400"
       }
-    ],
-    "imageResize": true
+    ]
   },
   "pages": {
     "index.html": {
